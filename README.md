@@ -5,12 +5,11 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 * [Portfolio](https://filipecalegario.net)
 * [Publications](https://www.cin.ufpe.br/~fcac)
-
-* https://orcid.org/0000-0001-8364-0887
-* https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ
-* http://www.researcherid.com/rid/AAU-1305-2020
-* http://lattes.cnpq.br/7709859860474826
-* https://publons.com/researcher/AAU-1305-2020/
-* https://dblp.org/pid/145/4681
+* [ORCID](https://orcid.org/0000-0001-8364-0887)
+* [Google Scholar Profile](https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ)
+* [ResearchID Profile](http://www.researcherid.com/rid/AAU-1305-2020)
+* [Currículo Lattes](http://lattes.cnpq.br/7709859860474826)
+* [Publon Profile](https://publons.com/researcher/AAU-1305-2020/)
+* [DBLP Profile](https://dblp.org/pid/145/4681)
 
 
