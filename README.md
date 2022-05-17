@@ -5,11 +5,13 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 * [Portfolio](https://filipecalegario.net)
 * [Publications](https://www.cin.ufpe.br/~fcac)
+* [Currículo Lattes](http://lattes.cnpq.br/7709859860474826)
 * [ORCID](https://orcid.org/0000-0001-8364-0887)
 * [Google Scholar Profile](https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ)
 * [ResearchID Profile](http://www.researcherid.com/rid/AAU-1305-2020)
-* [Currículo Lattes](http://lattes.cnpq.br/7709859860474826)
+* [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=55932980700)
 * [Publon Profile](https://publons.com/researcher/AAU-1305-2020/)
 * [DBLP Profile](https://dblp.org/pid/145/4681)
 * [Dissertação de Mestrado](https://attena.ufpe.br/bitstream/123456789/11988/1/Disserta%c3%a7%c3%a3o%20Filipe%20Carlos%20De%20Albuquerque%20Calegario.pdf)
 * [Tese de Doutorado](https://attena.ufpe.br/bitstream/123456789/27845/4/TESE%20Filipe%20Carlos%20de%20Albuquerque%20Calegario.pdf)
+
