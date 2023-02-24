@@ -12,6 +12,7 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 * [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=55932980700)
 * [Publon Profile](https://publons.com/researcher/AAU-1305-2020/)
 * [DBLP Profile](https://dblp.org/pid/145/4681)
+* [Linkedin](https://www.linkedin.com/in/filipe-calegario/)
 * [Dissertação de Mestrado](https://attena.ufpe.br/bitstream/123456789/11988/1/Disserta%c3%a7%c3%a3o%20Filipe%20Carlos%20De%20Albuquerque%20Calegario.pdf)
 * [Tese de Doutorado](https://attena.ufpe.br/bitstream/123456789/27845/4/TESE%20Filipe%20Carlos%20de%20Albuquerque%20Calegario.pdf)
 
