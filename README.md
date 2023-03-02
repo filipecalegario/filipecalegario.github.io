@@ -6,13 +6,13 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 * [Portfolio](https://filipecalegario.net)
 * [Publications](https://www.cin.ufpe.br/~fcac)
 * [Currículo Lattes](http://lattes.cnpq.br/7709859860474826)
-* [ORCID: https://orcid.org/0000-0001-8364-0887](https://orcid.org/0000-0001-8364-0887)
-* [Google Scholar Profile: https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ](https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ)
-* [Semantic Scholar: https://www.semanticscholar.org/author/Filipe-Calegario/52475418](https://www.semanticscholar.org/author/Filipe-Calegario/52475418)
-* [ResearchID Profile: AAU-1305-2020](http://www.researcherid.com/rid/AAU-1305-2020)
-* [Scopus ID: 55932980700](https://www.scopus.com/authid/detail.uri?authorId=55932980700)
-* [Publon Profile: AAU-1305-2020](https://publons.com/researcher/AAU-1305-2020/)
-* [DBLP Profile: https://dblp.org/pid/145/4681](https://dblp.org/pid/145/4681)
+* [ORCID](https://orcid.org/0000-0001-8364-0887): https://orcid.org/0000-0001-8364-0887
+* [Google Scholar Profile](https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ): https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ
+* [Semantic Scholar](https://www.semanticscholar.org/author/Filipe-Calegario/52475418): https://www.semanticscholar.org/author/Filipe-Calegario/52475418
+* [ResearchID Profile](http://www.researcherid.com/rid/AAU-1305-2020): AAU-1305-2020
+* [Scopus ID: 55932980700](https://www.scopus.com/authid/detail.uri?authorId=55932980700): 55932980700
+* [Publon Profile: AAU-1305-2020](https://publons.com/researcher/AAU-1305-2020/): AAU-1305-2020
+* [DBLP Profile](https://dblp.org/pid/145/4681): https://dblp.org/pid/145/4681
 * [Linkedin](https://www.linkedin.com/in/filipe-calegario/)
 * [Dissertação de Mestrado | Master Thesis](https://attena.ufpe.br/bitstream/123456789/11988/1/Disserta%c3%a7%c3%a3o%20Filipe%20Carlos%20De%20Albuquerque%20Calegario.pdf)
 * [Tese de Doutorado | PhD Thesis](https://attena.ufpe.br/bitstream/123456789/27845/4/TESE%20Filipe%20Carlos%20de%20Albuquerque%20Calegario.pdf)
