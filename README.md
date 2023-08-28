@@ -1,5 +1,13 @@
 # Minibio
 
+## Short
+
+Filipe Calegario é professor adjunto do CIn-UFPE, com foco de pesquisa em criatividade computacional, IA gerativa e design de interfaces musicais. Doutor em Ciência da Computação pela UFPE, foi pesquisador visitante na Universidade McGill, Canadá. É co-fundador do Batebit Artesania Digital, grupo de experimentação em interações musicais, e coordenador do MusTIC, grupo de pesquisa em arte e tecnologia. Recebeu premiações do Rumos Itaú Cultural para projetos musicais e, em 2019, lançou o livro "Desinging Digital Musical Instruments with Probatio: A Physical Prototyping Toolkit” pela editora Springer.
+
+Filipe Calegario is an associate professor at CIn-UFPE with research interests in computational creativity, generative AI, and musical interface design. He earned his Ph.D. in Computer Science from UFPE and was a visiting researcher at McGill University, Canada. He is a co-founder of Batebit Artesania Digital, a group dedicated to experimenting with musical interactions, and the coordinator of MusTIC, a research group focused on art and technology. He has received awards from Rumos Itaú Cultural for musical projects and, in 2019, published the book "Designing Digital Musical Instruments with Probatio: A Physical Prototyping Toolkit" through Springer Publishers.
+
+## Medium
+
 Filipe Calegario é professor adjunto do Centro de Informática da Universidade Federal de Pernambuco (CIn-UFPE) com pesquisas em criatividade computacional, IA gerativa, computação musical e design de interação de novas interfaces para expressão musical. Possui doutorado em Ciência da Computação pelo CIn-UFPE. Em 2015, foi pesquisador visitante no Laboratório de Dispositivos de Entrada e Interação Musical da Universidade McGill, Canadá. É um dos fundadores da Batebit Artesania Digital e um dos coordenadores do MusTIC, grupo de pesquisa em arte, tecnologia e criatividade do CIn-UFPE. Foi contemplado em duas edições do Rumos Itaú Cultural para o desenvolvimento do aplicativo musical Tocada (2014) e o aprimoramento do kit de ferramentas para experimentação de instrumentos musicais digitais Probatio (2018). Em 2019, publicou o livro intitulado “Desinging Digital Musical Instruments with Probatio: A Physical Prototyping Toolkit” (“Projetando Instrumentos Musicais Digitais Utilizando Probatio: Um Kit de Ferramentas de Prototipação Física”).
 
 ## Longer version
