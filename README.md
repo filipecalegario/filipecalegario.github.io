@@ -32,5 +32,11 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 * [Tese de Doutorado / PhD Thesis](https://attena.ufpe.br/bitstream/123456789/27845/4/TESE%20Filipe%20Carlos%20de%20Albuquerque%20Calegario.pdf)
 
 
+### Events and Press
+
+* 2023-12-18: Demoday Embarque Digital do Porto Digital [youtube video](https://www.youtube.com/watch?v=ivLiy4PrF04)
+* 2023-12-06: Debate no Porto Digital: IA e bullying nas escolas [press](https://jornaldigital.recife.br/2023/12/03/porto-digital-debate-inteligencia-artificial-e-bullying-nas-escolas/)
+
+
 [source](https://github.com/filipecalegario/filipecalegario.github.io)
 
