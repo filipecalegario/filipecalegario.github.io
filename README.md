@@ -40,12 +40,13 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 ### Events and Press
 
-* 2024-05-14: [NE2 | Série especial fala sobre uso da Inteligência Artificial no cotidiano | Globoplay](https://globoplay.globo.com/v/12593220/) 
+* 2024-05-14: [NE2 - Série especial fala sobre uso da Inteligência Artificial no cotidiano - Globoplay](https://globoplay.globo.com/v/12593220/) 
 * 2023-12-18: Demoday Embarque Digital do Porto Digital [youtube video](https://www.youtube.com/watch?v=ivLiy4PrF04)
 * 2023-12-06: Debate no Porto Digital: IA e bullying nas escolas [press](https://jornaldigital.recife.br/2023/12/03/porto-digital-debate-inteligencia-artificial-e-bullying-nas-escolas/)
-* 2023-08-XX: [JMTV 1ª Edição | Competição para geração de imagens e vídeos das obras de Gonçalves Dias é realizada em SL | Globoplay](https://globoplay.globo.com/v/11989936/) 
-* 2023-06-XX: [Bom Dia Mirante | Idealizador do projeto 'Gonçalves Dias Digitalizado' fala no Bom Dia Mirante | Globoplay](https://globoplay.globo.com/v/11698041/)
-* 2023-06-XX: [Bom Dia PE | Educador fala dos benefícios da Inteligência Artificial na rotina | G1](https://g1.globo.com/pe/pernambuco/bom-dia-pe/video/educador-fala-dos-beneficios-da-inteligencia-artificial-na-rotina-11639148.ghtml) 
+* 2023-09-XX: [Filipe Calegário, Professor Da UFPE (Sobre O Uso Da IA) - Desvendando A Ciência by CBN Recife](https://soundcloud.com/cbnrecife-com/filipe-calegario-professor-da-ufpe-sobre-o-uso-da-ia-nas-novas-tecnologias-desvendando-a-ciencia) 
+* 2023-08-XX: [JMTV 1ª Edição - Competição para geração de imagens e vídeos das obras de Gonçalves Dias é realizada em SL - Globoplay](https://globoplay.globo.com/v/11989936/) 
+* 2023-06-XX: [Bom Dia Mirante - Idealizador do projeto 'Gonçalves Dias Digitalizado' fala no Bom Dia Mirante - Globoplay](https://globoplay.globo.com/v/11698041/)
+* 2023-06-XX: [Bom Dia PE - Educador fala dos benefícios da Inteligência Artificial na rotina - G1](https://g1.globo.com/pe/pernambuco/bom-dia-pe/video/educador-fala-dos-beneficios-da-inteligencia-artificial-na-rotina-11639148.ghtml) 
 
 
 [source](https://github.com/filipecalegario/filipecalegario.github.io)
