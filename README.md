@@ -40,6 +40,7 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 ### Events and Press
 
+* 2024-05-14: [NE2 | Série especial fala sobre uso da Inteligência Artificial no cotidiano | Globoplay](https://globoplay.globo.com/v/12593220/) 
 * 2023-12-18: Demoday Embarque Digital do Porto Digital [youtube video](https://www.youtube.com/watch?v=ivLiy4PrF04)
 * 2023-12-06: Debate no Porto Digital: IA e bullying nas escolas [press](https://jornaldigital.recife.br/2023/12/03/porto-digital-debate-inteligencia-artificial-e-bullying-nas-escolas/)
 
