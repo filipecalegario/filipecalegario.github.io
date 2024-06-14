@@ -30,6 +30,7 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 * [Google Scholar Profile](https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ): https://scholar.google.com.br/citations?user=nTAKxd0AAAAJ
 * [Semantic Scholar](https://www.semanticscholar.org/author/Filipe-Calegario/52475418): https://www.semanticscholar.org/author/Filipe-Calegario/52475418
 * [ResearchID Profile](http://www.researcherid.com/rid/AAU-1305-2020): AAU-1305-2020
+* [Web of Science ResearchID Profile](https://www.webofscience.com/wos/author/record/AAU-1305-2020): AAU-1305-2020
 * [Scopus ID: 55932980700](https://www.scopus.com/authid/detail.uri?authorId=55932980700): 55932980700
 * [Publon Profile: AAU-1305-2020](https://publons.com/researcher/AAU-1305-2020/): AAU-1305-2020
 * [DBLP Profile](https://dblp.org/pid/145/4681): https://dblp.org/pid/145/4681
