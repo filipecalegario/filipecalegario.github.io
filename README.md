@@ -50,7 +50,8 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 * 2023-09-XX: [Filipe Calegário, Professor Da UFPE (Sobre O Uso Da IA) - Desvendando A Ciência by CBN Recife](https://soundcloud.com/cbnrecife-com/filipe-calegario-professor-da-ufpe-sobre-o-uso-da-ia-nas-novas-tecnologias-desvendando-a-ciencia) 
 * 2023-08-XX: [JMTV 1ª Edição - Competição para geração de imagens e vídeos das obras de Gonçalves Dias é realizada em SL - Globoplay](https://globoplay.globo.com/v/11989936/) 
 * 2023-06-XX: [Bom Dia Mirante - Idealizador do projeto 'Gonçalves Dias Digitalizado' fala no Bom Dia Mirante - Globoplay](https://globoplay.globo.com/v/11698041/)
-* 2023-06-XX: [Bom Dia PE - Educador fala dos benefícios da Inteligência Artificial na rotina - G1](https://g1.globo.com/pe/pernambuco/bom-dia-pe/video/educador-fala-dos-beneficios-da-inteligencia-artificial-na-rotina-11639148.ghtml) 
+* 2023-06-XX: [Bom Dia PE - Educador fala dos benefícios da Inteligência Artificial na rotina - G1](https://g1.globo.com/pe/pernambuco/bom-dia-pe/video/educador-fala-dos-beneficios-da-inteligencia-artificial-na-rotina-11639148.ghtml)
+* 2023-05-XX: [Escola de Comunicação da Unicap promove debate sobre os impactos da Inteligência Artificial - Unicap - Universidade Católica de Pernambuco](https://portal.unicap.br/-/impactos-da-ia) 
 
 
 [source](https://github.com/filipecalegario/filipecalegario.github.io)
