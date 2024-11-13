@@ -48,6 +48,9 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 ### Events and Press
 
+* 2024-11-06: [NE2 - Arena de Inteligência Artificial mostra possibilidades da ferramenta no REC'n'Play - Globoplay](https://globoplay.globo.com/v/13081656/) 
+* 2024-11-06: [Jornal Hoje - Evento reúne tecnologia e inovação no Recife - Globoplay](https://globoplay.globo.com/v/13081046/)
+* 2024-11-06: [Pernambuco Hoje | Cobertura da Arena IA no REC'n'Play 2024 - YouTube](https://www.youtube.com/live/BYUxX0FN0Zo?t=131s) 
 * 2024-05-14: [NE2 - Série especial fala sobre uso da Inteligência Artificial no cotidiano - Globoplay](https://globoplay.globo.com/v/12593220/) 
 * 2023-12-18: Demoday Embarque Digital do Porto Digital [youtube video](https://www.youtube.com/watch?v=ivLiy4PrF04)
 * 2023-12-06: Debate no Porto Digital: IA e bullying nas escolas [press](https://jornaldigital.recife.br/2023/12/03/porto-digital-debate-inteligencia-artificial-e-bullying-nas-escolas/)
