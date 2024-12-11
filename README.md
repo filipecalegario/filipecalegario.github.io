@@ -48,6 +48,7 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 ### Events and Press
 
+* 2024-12-11: [Alunos do CIn-UFPE conquistam terceiro lugar no Desafio Liga Jovem 2024 – CIn UFPE](https://portal.cin.ufpe.br/2024/12/11/alunos-do-cin-ufpe-conquistam-terceiro-lugar-no-desafio-liga-jovem-2024/) 
 * 2024-12-09: [Estudantes da UFPE conquistam lugar no pódio nacional do Desafio Liga Jovem - Agência Sebrae de Notícias](https://pe.agenciasebrae.com.br/cultura-empreendedora/estudantes-da-ufpe-conquistam-lugar-no-podio-nacional-do-desafio-liga-jovem/) 
 * 2024-11-23: [As iniciativas da UFPE no Rec'n'Play 2024 - NC #107 - YouTube](https://www.youtube.com/watch?v=4w7yXekR-Vg) 
 * 2024-11-06: [NE2 - Arena de Inteligência Artificial mostra possibilidades da ferramenta no REC'n'Play - Globoplay](https://globoplay.globo.com/v/13081656/) 
