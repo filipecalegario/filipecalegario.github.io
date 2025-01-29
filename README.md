@@ -48,6 +48,7 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 
 ### Events and Press
 
+* 2025-01-28: [Efeito DeepSeek: inovação chinesa pode frear investimentos bilionários em IA](https://movimentoeconomico.com.br/tecnologia/2025/01/28/efeito-deepseek-inovacao-chinesa-pode-frear-investimentos-bilionarios-em-ia/) 
 * 2024-12-13: [Alunos da UFPE ganham terceiro lugar em programa de empreendedorismo tecnológico](https://jc.ne10.uol.com.br/colunas/enem-e-educacao/2024/12/13/alunos-da-ufpe-ganham-terceiro-lugar-em-programa-de-empreendedorismo-tecnologico.html) 
 * 2024-12-12: [Alunos da UFPE conquistam terceiro lugar no Desafio Liga Jovem 2024 - Notícias - UFPE](https://www.ufpe.br/agencia/noticias/-/asset_publisher/dlhi8nsrz4hK/content/alunos-da-ufpe-conquistam-terceiro-lugar-no-desafio-liga-jovem-2024/40615) 
 * 2024-12-11: [Alunos do CIn-UFPE conquistam terceiro lugar no Desafio Liga Jovem 2024 – CIn UFPE](https://portal.cin.ufpe.br/2024/12/11/alunos-do-cin-ufpe-conquistam-terceiro-lugar-no-desafio-liga-jovem-2024/) 
