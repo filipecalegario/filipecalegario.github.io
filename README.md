@@ -28,7 +28,7 @@ Filipe Calegario é professor do Centro de Informática da Universidade Federal 
 
 Filipe Calegario holds a PhD in Computer Science from the Centro de Informática (CIn), UFPE, with research focus on computational creativity, computer music, electronic prototyping and digital fabrication in the interaction design of new interfaces for musical expression. In 2015, he was visiting researcher in the Input Devices and Music Interaction Laboratory at McGill University, Canada. He is one of the founders of Batebit Artesania Digital and one of the coordinators of the music and technology research group, MusTIC, CIn-UFPE. He participated and presented works in several events in the intersection between art and technology, such as Recife: The Playable City, International Electronic Language Festival (FILE), Digital Art Festival (FAD), Continuum, Interactivos. Filipe was an industrial researcher at the SENAI Institute of Innovation for Information and Communication Technologies, in which he coordinated the innovation project CIIMUS, Creativity and Innovation for the Music Manufacturing. In 2014 and 2018, he was awarded with Rumos Itaú Cultural funding for the development of the Tocada musical application and the improvement of the toolkit for experimentation of digital musical instruments. In 2019, he published the book entitled “Designing Digital Musical Instruments Using Probatio: A Physical Prototyping Toolkit” which focuses on the process of creating digital musical instruments and proposing a tool for agile prototyping of such artifacts, accelerating the cycles of experimentation to achieve more expressive results for and by artists.
 
-* [Portfolio](https://filipecalegario.net)
+* [Portfolio](https://filipecalegario.wordpress.com)
 * [Publications](https://www.cin.ufpe.br/~fcac)
 * [Currículo Lattes](http://lattes.cnpq.br/7709859860474826)
 * [ORCID](https://orcid.org/0000-0001-8364-0887): 0000-0001-8364-0887
@@ -46,6 +46,7 @@ Filipe Calegario holds a PhD in Computer Science from the Centro de Informática
 * [CNPq - Diretório de Grupos - GERAIA](https://dgp.cnpq.br/dgp/espelhogrupo/798941) 
 * [Dissertação de Mestrado / Master Thesis](https://attena.ufpe.br/bitstream/123456789/11988/1/Disserta%c3%a7%c3%a3o%20Filipe%20Carlos%20De%20Albuquerque%20Calegario.pdf)
 * [Tese de Doutorado / PhD Thesis](https://attena.ufpe.br/bitstream/123456789/27845/4/TESE%20Filipe%20Carlos%20de%20Albuquerque%20Calegario.pdf)
+* [Plataforma Acácia](https://plataforma-acacia.org/profile/filipe-carlos-de-albuquerque-calegario/)
 
 
 ### Events and Press
